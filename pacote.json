@@ -1,0 +1,8 @@
+{
+    "nome": "CursorDeCelula",
+    "versao": "0.1.0",
+    "descricao": "Cursor para navegar com facilidade em planilhas Excel",
+    "planilha": "exemplo",
+    "autor": "igorzk",
+    "licenca": "MIT"
+}
